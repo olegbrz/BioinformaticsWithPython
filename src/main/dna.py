@@ -5,7 +5,7 @@ def generate_random_dna(length: int) -> str:
     """generate_random_dna generates a random DNA string given a length.
 
     Args:
-    	length (int): desired dna length
+    	length (int): desired dna length.
 
     Returns:
 		str: DNA string. E.g.: 'AGCTCACTGACTT' for length = 13
