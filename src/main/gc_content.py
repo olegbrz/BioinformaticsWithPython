@@ -7,4 +7,7 @@ def gc_content(dna: str) -> float:
     Returns:
         float: percentage of 'G' and 'C' (from 0 to 1).
     """
-    return float(dna.count('G') + dna.count('C'))/len(dna)
+    if not len(dna):
+        return 0
+    else:
+        return float(dna.count('G') + dna.count('C'))/len(dna)
