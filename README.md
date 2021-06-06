@@ -1,5 +1,7 @@
 # Bioinformatics w/ Python
 
+[![Build Status](https://www.travis-ci.com/olegbrz/BioinformaticsWithPython.svg?branch=main)](https://www.travis-ci.com/olegbrz/BioinformaticsWithPython)
+
 Repository dedicated to the software project on Bioinformatics in Python of the course Advanced Programming in Bioinformatics.
 
 The "Bioinformatics with Python" suite was developed to show the potential of Python solving Bioinformatics problems with a couple of lines of code.
