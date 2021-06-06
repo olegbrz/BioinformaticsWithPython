@@ -2,7 +2,7 @@ from collections import Counter
 from typing import List, Tuple
 
 
-def motifs(dna: str, k: int, n: int = 5) -> List[Tuple(str, int)]:
+def motifs(dna: str, k: int, n: int = 5) -> List[Tuple[str, int]]:
     """motifs calculates the most common k-mers in a sequence.
 
     Args:
